@@ -1,0 +1,17 @@
+#Name and features:
+#Name; phisical strenght; psychological strenght; first aid skills;
+native language; second language; manual labour skills;
+cooking skills; driving skills; IT skills; profession; origin
+#Helpers:
+Orlando Lopes; high; medium; no; portuguese; spanish; some; yes; yes; no; baker; Portugal
+Yosuke Fukuda; low; high; some; japanese; chinese; little; little; yes; yes; composer; Japan
+Adetokunbo Fukuda; medium; low; yes; english; none; yes; yes; yes; no; farmer; Nigeria
+Maja Lujngman; low; high; no; swedish; ucranian; little; no; no; yes; banker; Sweden
+Danièle Rose; low; low; yes; french; english; little; some; yes; some; psychologist; France
+Sigrid Reuter; low; medium; some; german; ucranian; no; no; yes; yes; journalist; Germany
+Marco Verrati; medium; medium; some; italian; french; yes; little; no; no; florist; Italia
+Hidemasa Morita; medium; medium; yes; chinese; english; little; some; no; yes; student; Taiwan
+Aurora Muñoz; low; high; yes; spanish; french; little; some; yes; little; psychologist; Spain
+#Exemplars:
+Daisuke Okabe; high; high; yes; japanese; korean; yes; no; yes; yes; police officer; Japan
+Kim Kardashian; medium; low; no; english; none; little; no; no; some; influencer; USA

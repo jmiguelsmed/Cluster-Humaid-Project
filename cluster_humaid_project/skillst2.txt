@@ -1,0 +1,54 @@
+#relevance; feature values
+# relevance; origin
+50; Ukraine
+20; others
+# relevance; native language
+50; ucrainian
+40; english
+30; french
+20; german
+10; others
+# relevance; second language
+50; ucrainian
+40; english
+30; french
+20; german
+10; others
+0; none
+# relevance; profession
+50; medical doctor
+40; healthcare professional
+30; psychologist
+20; journalist
+10; others
+0; spy
+# relevance; first aid skills
+50; yes
+30; some
+0; no
+# relevance; driving skills
+50; yes
+0; no
+# relevance; cooking skills
+50; yes
+40; some
+20; little
+0; no
+# relevance; IT skills
+50; yes
+30; some
+10; little
+0; no
+# relevance; phisical strenght
+50; high
+30; medium
+20; low
+# relevance; manual labour skills
+50; yes
+30; some
+10; little
+0; no
+# relevance; psychological strenght
+50; high
+30; medium
+20; low
